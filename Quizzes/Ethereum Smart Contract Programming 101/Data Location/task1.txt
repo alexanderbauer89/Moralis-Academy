@@ -1,0 +1,16 @@
+Which of these are data location in Solidity?
+
+(Select all that apply)
+
+Storage
+State
+Global
+Local
+String
+Memory
+Chain
+Calldata
+
+> Storage
+> Memory
+> Calldata
