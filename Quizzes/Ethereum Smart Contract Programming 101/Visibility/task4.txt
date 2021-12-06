@@ -1,0 +1,9 @@
+For which visibility levels will solidity automaticallly create a getter function for us?
+(Select all that apply)
+
+Public
+Private
+Internal
+External
+
+> Public
