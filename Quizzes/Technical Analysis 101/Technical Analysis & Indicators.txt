@@ -1,8 +1,0 @@
-What does ‘RSI’ stand for?
-> Relative Strength Index
-What does ‘MACD’ stand for?
-> Moving Average Convergence Divergence
-What does SAR stand for in Parabolic SAR?
-> Stop And Reverse
-What kind of indicator is a moving average?
-> Lagging Indicator
