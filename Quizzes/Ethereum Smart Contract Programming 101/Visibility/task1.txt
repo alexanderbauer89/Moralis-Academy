@@ -1,0 +1,8 @@
+What does the visibility level private do to a function?
+
+"Private" limits a functions visiblity to the contract and it's parents
+"Private" limits a functions visibility to the contract only
+"Private" limits a functions visiblity to the creator only
+"Private" limits a functions visibility to the contract and it's children
+
+> "Private" limits a functions visibility to the contract only
