@@ -1,0 +1,8 @@
+How do I set the value 50, for the key Bob, in the mapping age?
+
+age[Bob] = 50
+age[50] = "Bob"
+age["Bob"] = 50
+age.set("Bob", 50)
+
+> age["Bob"] = 50
