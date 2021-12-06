@@ -1,0 +1,8 @@
+What keyword do we need to put in our function header in order to be able to receive money to that function?
+
+payable
+receiver
+ether
+msg.sender
+
+> payable
