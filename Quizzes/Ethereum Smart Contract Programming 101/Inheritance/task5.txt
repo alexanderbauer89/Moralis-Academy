@@ -1,0 +1,8 @@
+Contract A inherits from Contract B. Contract B has a public function called getBalance.
+
+Can I run the getBalance function inside contract A?
+
+Yes
+No
+
+> Yes
