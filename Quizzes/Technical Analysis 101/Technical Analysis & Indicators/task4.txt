@@ -1,0 +1,6 @@
+What kind of indicator is a moving average?
+
+Leading Indicator
+Lagging Indicator
+
+> Lagging Indicator
