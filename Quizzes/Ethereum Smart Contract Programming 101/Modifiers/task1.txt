@@ -1,0 +1,7 @@
+When is the function modifiers code executed?
+
+Before the function
+After the function
+When called by the function
+
+> Before the function
