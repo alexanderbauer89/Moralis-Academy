@@ -1,0 +1,8 @@
+If your trading strategy has a 3:1 reward-to-risk ratio, then what win rate would you need to achieve to ensure that you are at least breakign even?
+
+25%
+30%
+31%
+33%
+
+> 25%
