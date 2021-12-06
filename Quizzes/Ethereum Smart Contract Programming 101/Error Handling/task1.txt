@@ -1,0 +1,8 @@
+When should you use assert?
+
+To avoid conditions which should never, ever be possible
+To validate inputs
+To validate that the caller is the owner
+To avoid compilation errors
+
+> To avoid conditions which should never, ever be possible
