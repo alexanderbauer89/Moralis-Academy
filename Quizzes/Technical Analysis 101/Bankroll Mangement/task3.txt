@@ -1,0 +1,8 @@
+If your trading strategy has a 4:1 reward-to-risk ratio, then what win rate would you need to achieve to ensure that you are at least breaking even?
+
+4%
+20%
+25%
+40%
+
+> 20%
