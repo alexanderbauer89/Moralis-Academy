@@ -1,0 +1,11 @@
+When should you use require?
+
+(Select all that apply)
+
+To validate that the caller is the owner
+To avoid compilation errors
+To validate inputs
+To avoid coniditions which should never, ever be possible in a contract.
+
+> To validate that the caller is the owner
+> To validate inputs
