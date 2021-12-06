@@ -1,0 +1,8 @@
+What does the _ (underscore) mean within a function modifier?
+
+Abort the execution and don't execute the function body
+Execute the function body
+Execute the function body backwards
+Revert all previous actions
+
+> Execute the function body
