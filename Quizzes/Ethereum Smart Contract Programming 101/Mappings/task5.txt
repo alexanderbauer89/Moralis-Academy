@@ -1,0 +1,8 @@
+What's the main benefit of mappings compared to arrays?
+
+Takes upp less space
+Fast searches if the key is unknown
+Quick lookups if key is known
+Easy to check the number of entries.
+
+> Quick lookups if key is known
