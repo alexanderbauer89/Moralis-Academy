@@ -1,0 +1,7 @@
+Why are interfaces necessary?
+
+Because your contract needs to be aware of the function headers in order for you to interact with the external contract.
+The compiler needs to know the address of the external contracts.
+The compiler needs to see the function implementation before it can interact with it.
+
+> Because your contract needs to be aware of the function headers in order for you to interact with the external contract.
