@@ -1,0 +1,6 @@
+Which of the two cases will consume all of the remaining gas in a function call: assert(false) or require(false)?
+
+require(false)
+assert(false)
+
+> assert(false)
