@@ -1,0 +1,8 @@
+What will happen if a call to transfer() fails?
+
+The function will return false
+The function will return true
+The function will throw an error and revert
+It will not do anything
+
+> The function will throw an error and revert
