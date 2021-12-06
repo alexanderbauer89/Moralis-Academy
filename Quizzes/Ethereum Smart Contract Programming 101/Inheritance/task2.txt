@@ -1,0 +1,11 @@
+What are some benefits of using inheritance as part of your code?
+
+(Select all that apply)
+
+Decreased compilation time
+Reduces code duplication
+Creates a clear code structure
+Reduces gas cost
+
+> Reduces code duplicaiton
+> Creates a clear code structure
