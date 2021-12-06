@@ -1,0 +1,6 @@
+Can a parent contract have multiple child contracts?
+
+Yes
+No
+
+> Yes
