@@ -1,0 +1,11 @@
+What 2 things do we need in order for our contract to interact with other (external) contracts?
+
+(Select all that apply)
+
+The contracts address
+The contract Interface
+The contract code
+The contract name
+
+> The contracts address
+> The contract Interface
