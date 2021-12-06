@@ -1,0 +1,7 @@
+What can happen if we use data location memory instead of storage?
+
+Changes are lost
+State variables get overwritten
+Function could throw error
+
+> Changes are lost
