@@ -1,0 +1,8 @@
+What best describes a Key-Value datatype?
+
+Data records that can be quickly retrieved using a key that uniquely identifies the record
+Data records that can be ineffectively retrieved using a key that uniquely identifies the record
+Data records that can be quickly retrieved using. a key that identifies the one or more values
+An array with a quick search function
+
+> Data records that can be quickly retrieved using a key that uniquely identifies the record
