@@ -1,0 +1,8 @@
+How do we indicate that a Contract A inherits from Contract B in solidity?
+
+contract A is contract B
+contract A : B
+contract A inherits from contract B
+contract B is contract A
+
+> contract A is contract B
