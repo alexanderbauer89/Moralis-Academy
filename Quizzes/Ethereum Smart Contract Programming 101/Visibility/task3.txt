@@ -1,0 +1,8 @@
+Where do we specifiy a functions visibility level?
+
+In the function body
+In the function return statement
+In the function header
+In the function execution
+
+> In the function header
