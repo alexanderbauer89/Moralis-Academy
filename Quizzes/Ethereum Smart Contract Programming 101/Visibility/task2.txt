@@ -1,0 +1,8 @@
+What does the visibility level internal do to a function?
+
+"Internal" limits a functions visibility to the contract and it's parents.
+"Internal" limits a functions visibility to the contract only.
+Same as "private"
+"Internal" limits a functions visibility to the contract and all contracts that inherit form it.
+
+> "Internal" limits a functions visibility to the contract and all contracts that inherit form it.
