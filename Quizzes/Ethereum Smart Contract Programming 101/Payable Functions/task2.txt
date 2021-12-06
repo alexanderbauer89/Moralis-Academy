@@ -1,0 +1,8 @@
+Why is it useful to have a balance variable in our contract?
+
+So that we as developers can check the balance of our contract
+So that other people can check the balance of our contract
+So that our contract can't spend more than it owns
+So that our contract can query for its own balance
+
+> So that our contract can query for its own balance
