@@ -1,0 +1,7 @@
+Why is it useful to be able to listen for Solidity events being fired?
+
+Because we can create a log of events in our contract
+Because frontends in dapps can react to changes in our contracts.
+Because external contracts can react to changes in our contracts.
+
+> Because frontends in dapps can react to changes in our contracts.
