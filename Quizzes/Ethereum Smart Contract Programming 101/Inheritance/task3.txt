@@ -1,0 +1,6 @@
+Can a child contract inherit from multiple parent contracts?
+
+Yes
+No
+
+> Yes
