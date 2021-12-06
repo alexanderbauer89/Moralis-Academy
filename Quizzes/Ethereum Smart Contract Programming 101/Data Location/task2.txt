@@ -1,0 +1,6 @@
+Do we need to specifiy a data location for value-type variables?
+
+Yes
+No
+
+> No
