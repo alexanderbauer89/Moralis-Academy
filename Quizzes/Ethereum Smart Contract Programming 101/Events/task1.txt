@@ -1,0 +1,7 @@
+How are events declard in Solidity?
+
+Example = New Event(uint number, address from)
+Event Example = New Event(uint number, address from)
+event Example(uint number, address from)
+
+> event Example(uint number, address from)
