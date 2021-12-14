@@ -1,0 +1,8 @@
+Which function transfers an array of numbers into a string containing comma separated values?
+
+pop
+...
+join
+JSON.parse
+
+> join
