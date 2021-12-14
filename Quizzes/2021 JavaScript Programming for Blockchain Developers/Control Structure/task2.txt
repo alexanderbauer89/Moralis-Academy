@@ -1,0 +1,10 @@
+How many times is the text message logged to the console?
+
+while( true ) { console.log('text'); }
+
+0
+1
+10
+In theory, infinite, in practice, the browser may crash sooner
+
+> In theory, infinite, in practice, the browser may crash sooner
