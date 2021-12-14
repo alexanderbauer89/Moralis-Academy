@@ -1,0 +1,8 @@
+How many headings can a document contain?
+
+1
+2
+6
+unlimited
+
+> unlimited
