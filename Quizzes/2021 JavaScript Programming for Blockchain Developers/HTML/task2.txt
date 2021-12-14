@@ -1,0 +1,8 @@
+Where do we place the header HTML element?
+
+inside the head of the document
+between the head and the body of the document
+inside the body of the document
+after the body of the document
+
+> inside the body of the document
