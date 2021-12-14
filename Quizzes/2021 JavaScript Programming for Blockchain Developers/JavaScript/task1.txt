@@ -1,0 +1,8 @@
+Which of the following datatypes is composite?
+
+Number
+Object
+Boolean
+String
+
+> Object
