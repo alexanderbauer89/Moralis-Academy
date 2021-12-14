@@ -1,0 +1,8 @@
+Which axis does the align-items Flexbox rule influence?
+
+main axis
+cross axis
+both
+we cannot tell, because it depends on the Flex-direction property
+
+> cross axis
