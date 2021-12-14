@@ -1,0 +1,11 @@
+Suppose the box-sizing of a node is border-box. The viewport is 1000 pixels wide.
+The margin is 50 pixels wide on both ends, the padding is 100 pixels wide on both ends,
+and the border is 5 pixels wide on both ends. The width of the element is set to 50vw.
+What is the width of the content area?
+
+500px
+300px
+290px
+190px
+
+> 290px
