@@ -1,0 +1,14 @@
+What is the value of sum in the console log?
+
+let sum = 0;
+for (let i = 0; i<5;i+=2) {
+    sum += i;
+}
+console.log(sum);
+
+2
+3
+6
+15
+
+> 6
