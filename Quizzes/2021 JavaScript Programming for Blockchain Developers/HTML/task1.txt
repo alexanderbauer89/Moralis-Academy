@@ -1,0 +1,8 @@
+Which of the following tags is inline?
+
+p
+section
+strong
+aside
+
+> strong
