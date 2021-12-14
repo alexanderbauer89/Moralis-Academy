@@ -1,0 +1,8 @@
+Good, maintainable functons are...
+
+shorter than ten lines
+commented such that there is a minimum 1:1 ratio between code lines and comment lines
+side-effect free
+written using the arrow syntax
+
+> side-effect free
