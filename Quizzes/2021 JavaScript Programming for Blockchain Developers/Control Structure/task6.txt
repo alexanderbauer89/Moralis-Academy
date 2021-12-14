@@ -1,0 +1,8 @@
+Choose the largest value out of the following four.
+
+2 ** 10
+1000
+-Infinity
+NaN
+
+> 2 ** 10
