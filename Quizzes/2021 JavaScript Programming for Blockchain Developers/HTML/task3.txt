@@ -1,0 +1,8 @@
+Which markup is not well formed out of these options?
+
+<p>First <strong>paragraph.</p></strong>
+<p>First <strong>title</strong>.</p>
+First <strong>paragraph.</p> <img src="./leftarrow.png" alt="left arrow" />
+None of the above are well formed.
+
+> First <strong>paragraph.</p> <img src="./leftarrow.png" alt="left arrow" />
