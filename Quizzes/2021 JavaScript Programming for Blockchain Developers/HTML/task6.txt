@@ -1,0 +1,8 @@
+What happens when we place two newline characters inside a paragraph between two words?
+
+They are displayed as newline characters, causing two line breaks inside the paragraph
+All whitespace characters, including newline characters are replaced by one single space between two words
+Only one newline character is displayed
+None of the above
+
+> All whitespace characters, including newline characters are replaced by one single space between two words
