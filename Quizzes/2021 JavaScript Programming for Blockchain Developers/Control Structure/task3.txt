@@ -1,0 +1,8 @@
+The body of which loop is guaranteed to execute at least once?
+
+while
+do...while
+for
+No loops are guaranteed to execute at least once
+
+> do...while
