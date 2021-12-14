@@ -1,0 +1,8 @@
+What is the value of 5 === "5"?
+
+"5"
+5
+true
+false
+
+> false
