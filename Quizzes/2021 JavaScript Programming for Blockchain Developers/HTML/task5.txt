@@ -1,0 +1,8 @@
+How can articles and sections be nested?
+
+Articles can be inside sections and sections can be inside articles.
+Only articles can be inside sections, sections cannot contain articles.
+Only sections can be inside articles, articles cannot contain sections.
+Articles and sections are disjoint, they cannot be inside each other.
+
+> Articles can be inside sections and sections can be inside articles.
