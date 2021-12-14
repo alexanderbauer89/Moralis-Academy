@@ -1,0 +1,9 @@
+The font-size of the html element is 10px. The body has a font-size of 1.6rem.
+Inside the body, the h1 element has a font-size of 3rem. What is the font size of the h1 element in pixels?
+
+10px
+16px
+30px
+48px
+
+> 30px
