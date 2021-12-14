@@ -1,0 +1,9 @@
+Which of the following selectors has the highest priority among the ones that select the
+<section class="crypto-prices">...</section> node?
+
+section
+.crypto-prices
+#crypto-prices
+.crypto-prices.crypto-prices
+
+> .crypto-prices.crypto-prices
