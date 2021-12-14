@@ -1,0 +1,10 @@
+Which are the three main building blocks of programs? (Multiple Selection)
+
+sequence
+selection
+semantics
+iteration
+
+> sequence
+> semantics
+> iteration
