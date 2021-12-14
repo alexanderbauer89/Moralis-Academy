@@ -1,0 +1,8 @@
+Suppose object o is equal to { name:'Moralis', location: null }. What is the value of o.location?.latitude?
+
+undefined
+null
+""
+A JavaScript error is thrown
+
+> ""
