@@ -1,0 +1,8 @@
+What does the ul>li>lorem5 Emmet expression generate in a Visual Studio Code HTML file?
+
+An unordered list with five list items containing one word of the Lorem Ipsum text in each list item.
+An unordered list with five list items containing five words of the Lorem Ipsum text in each list item.
+An unordered list with one list item containing the lorem5 text.
+An unordered list with one list item containing five words of the Lorem Ipsum text in each list item.
+
+> An unordered list with one list item containing five words of the Lorem Ipsum text in each list item.
