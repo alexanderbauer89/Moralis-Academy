@@ -1,0 +1,8 @@
+Which design methods does "divide and conquer" incorporate when creating the layout of a website?
+
+top-down
+bottom-up
+both
+none of these
+
+> both
