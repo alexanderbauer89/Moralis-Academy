@@ -1,0 +1,8 @@
+The async-await syntax is...
+
+an alternative to writing promise .then clauses
+has to be used together with writing promise .then clauses
+cannot be used together with promise .then clauses
+generally slower then promise .hen clauses, because it blocks I/O operations
+
+> an alternative to writing promise .then clauses
