@@ -1,0 +1,8 @@
+What is the result of 'first,second'.split(',').join('</li><li>')?
+
+<li>first</li><li>second</li>
+<li>first</li><li>second</li>
+</li><li>first</li><li>second</li><li>
+first</li></li>second
+
+> first</li></li>second
