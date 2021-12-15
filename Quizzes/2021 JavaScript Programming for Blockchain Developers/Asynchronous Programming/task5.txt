@@ -1,0 +1,8 @@
+What is the typical syntax of JavaScript error handling?
+
+try {...} catch(error) {...}
+try {...} except(error) {...}
+try(function).catch(errorHandler)
+try { promise.then(callback); } catch(error) { ... }
+
+> try {...} catch(error) {...}
