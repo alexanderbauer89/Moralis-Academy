@@ -1,0 +1,8 @@
+Suppose [1, 2, 3].____(x => x * 2) is [2, 4, 6]. Which function is used in place of ____ to compute this result?
+
+filter
+find
+map
+reduce
+
+> map
