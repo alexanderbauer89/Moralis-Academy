@@ -1,0 +1,8 @@
+Which of the following values is not an array of arrays?
+
+[[1, 2], [3, 4]]
+[[1, 2]]
+[{length: 0}]
+[''abc''.split('')]
+
+> [{length: 0}]
