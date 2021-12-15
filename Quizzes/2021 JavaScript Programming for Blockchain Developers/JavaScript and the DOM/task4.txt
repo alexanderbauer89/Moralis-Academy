@@ -1,0 +1,9 @@
+Select all top level list items of an unordered list having the class js-navigation using a querySelector query.
+Which of the following is correct?
+
+document.querySelector('li.js-navigation');
+document.querySelector('li > .js-navigation');
+document.querySelector('.js-navigation li');
+document.querySelector('.js-navigation > li');
+
+> document.querySelector('.js-navigation > li');
