@@ -1,0 +1,9 @@
+Which of the following functions can disable form submission in the event handler function of a form submission
+assuming that the event object is event and the selector of the form is .js-form?
+
+event.preventDefault();
+preventDefault(event);
+document.querySelector('.js-form').preventDefault();
+preventDefault(document.querySelector('.js-form'));
+
+> event.preventDefault();
