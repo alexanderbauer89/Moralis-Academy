@@ -1,0 +1,9 @@
+Suppose the following code returns a promise: fetch('URL').then(f);
+What should function f be so that the result of the fetch is converted to a JSON string?
+
+data => JSON.parse(data);
+data => json(data);
+data => data.json();
+data => JSON.stringify(data);
+
+> data => data.json();
