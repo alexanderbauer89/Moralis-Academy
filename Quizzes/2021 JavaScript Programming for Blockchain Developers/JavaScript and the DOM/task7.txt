@@ -1,0 +1,10 @@
+Suppose a node <div data-order="5"></div> is given and the JavaScript variable $element points at this div in the DOM.
+How do we access the value of the data-order attribute?
+
+document.querySelector('div').getAttribute('order');
+$element.querySelector('[data-order]');
+$element.dataset['data-order'];
+$element.dataset.order;
+$element.dataset.order;
+
+> $element.dataset.order;
