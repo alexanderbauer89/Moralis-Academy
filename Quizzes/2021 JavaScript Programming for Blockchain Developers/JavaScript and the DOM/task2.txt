@@ -1,0 +1,8 @@
+Which of the following is not a proper event type usable in the first argument of addEventListener?
+
+'click'
+'add'
+'submit'
+'mouseenter'
+
+> 'add'
