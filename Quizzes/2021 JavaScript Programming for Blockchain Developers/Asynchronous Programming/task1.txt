@@ -1,0 +1,8 @@
+Which is not a promise state?
+
+pending
+rejected
+resolved
+frozen
+
+> frozen
