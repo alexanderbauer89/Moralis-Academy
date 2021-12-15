@@ -1,0 +1,8 @@
+The return value of an async function...
+
+depends on what value the user returns
+is always undefined
+is always a promise
+is always an even
+
+> is always a promise
