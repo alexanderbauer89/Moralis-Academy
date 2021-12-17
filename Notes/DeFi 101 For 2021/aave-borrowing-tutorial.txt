@@ -1,0 +1,7 @@
+available to borrow shows max amount
+it is dangerous to borrow max because then you're very close to liquidation
+
+health factor shows risk of liquidation
+max to borrow is 75%
+
+the lower the health factor, the safer it is
