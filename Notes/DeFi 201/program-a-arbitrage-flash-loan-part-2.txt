@@ -1,0 +1,8 @@
+extended the simple flash loan contract with arbitrage functionality
+
+1. borrow dai from aave
+2. buy bat with dai on ExchangeA
+3. sell bat for dai on ExchangeB
+4. repay aave loan
+5. keep profits
+
