@@ -1,0 +1,7 @@
+digital financial stack
+
+settlement layer
+asset layer
+protocol layer
+application layer
+aggregation layer
