@@ -1,0 +1,15 @@
+security is an ongoing process
+
+there are many risks that we can't control
+financial risks
+technical risks
+smart contract risk
+governance risk
+dependency risk
+oracle risk
+flash loan risk
+and more
+
+defi yields are higher because they are more risky compared to central finance
+in 2020 $129 millions were stolen in defi by hacks
+once a contract gets live it can't be changed so any error will be permanent
