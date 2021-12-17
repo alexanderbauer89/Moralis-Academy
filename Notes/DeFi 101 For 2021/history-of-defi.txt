@@ -1,0 +1,22 @@
+before 2020
+during 2020
+2021
+
+defi needs a smart contracts platform and ethereum was the first one
+maker is considered the first defi protocol
+
+etherdelta was the first attempt, but failed
+
+defi protocols must either be fully decentralized or fully compliant
+
+compound is another money market and created yield farming
+
+yearn finance is an automatic yield optimizer - only way to get tokens is to use the protocol
+
+sushiswap didn't had a token, it copied uniswap and added a token
+
+sushi captured over a billion of liquidity from uniswap
+
+polygon was formerly matic
+
+ethereum has more liquidity, more developers and dapps already built on it -> network effects
