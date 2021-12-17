@@ -1,0 +1,7 @@
+get address from aave developer page
+create exchange on uniswap 1 and 2 under pool -> create exchange
+add liquidity in different ratios, so we have different prices -> arbitrage opportunity
+
+go back to contract and use maker
+copy maker address and replace
+redeploy contract
