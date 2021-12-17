@@ -1,0 +1,15 @@
+1. tech benefits
+2. monetary benefits
+3. user experience benefits
+
+accessibility anywhere in the world permissionless, no kyc
+all transactions are final, no chargebacks
+all transactions stored on a public ledger
+defi is interoperable, they can build on each other
+eth will not scale to demand until eth 2.0 will go live, so we use eth testnet
+
+defi removes banking fees
+in defi people earn interest, while funds on banks lose money due to inflation
+risks are involved, be careful
+defi can be much smoother, since there is not setup or kyc
+no one can freeze your account
