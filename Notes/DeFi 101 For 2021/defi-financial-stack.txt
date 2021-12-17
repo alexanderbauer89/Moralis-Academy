@@ -1,0 +1,10 @@
+decentralized exchanges DEX
+stablecoins
+money markets - lending and borrowing
+synthetics - derivates and value derived from other assets
+insurance - less than 2 % is insured
+other categories
+identity
+gambling and prediction markets
+
+main advantage is interoperability
