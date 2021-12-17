@@ -1,0 +1,6 @@
+make sure to go to metamask.io
+
+make sure to backup recovery phrase
+best is to write it down on a piece of paper and distribute through different places
+metamask is still a hot wallet and shouldn't be trusted with large amounts
+if anyone asks you for recovery phrase its a scam
