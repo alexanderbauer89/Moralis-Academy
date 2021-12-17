@@ -1,0 +1,18 @@
+1. tech drawbacks
+2. user experience drawbacks
+3. regulatory drawbacks
+
+transactions are immutable so pay attention, no chargebacks
+don't reuse addresses
+separate your personal identity from wallet addresses as much as possible
+
+regular hacks, rug-pulls and scams are still happening because the space is so new
+
+eth gas fees are high, so many people can't use defi - waiting for eth 2.0
+
+you need to keep your own records for reporting
+use 2fa authentication
+
+in most places there is a lot of regulatory uncertainty
+
+if a decentralized infrastructure is attacked, it will become even more decentralized
