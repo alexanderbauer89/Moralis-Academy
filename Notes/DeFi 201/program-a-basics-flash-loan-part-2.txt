@@ -1,0 +1,7 @@
+pragma solidity ^0.5.0;
+
+import interfaces and lending pool
+
+provider address from aavae developer documentation
+first function flashloan to ask for the loan
+second function executeoperation to repay loan
