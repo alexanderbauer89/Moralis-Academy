@@ -1,0 +1,10 @@
+there a various tool available to track defi assets
+
+zerion.io shows bridges and portfolio overview, history, invest ...
+it is quick and easy, however some privacy concerns
+
+zapper shows dashboard, different networks ... not as many options as on zerion.io
+
+rotki is an app on the computer and not browser-based, open-source
+
+disconnect in metamask to make sure it is really disconnected
