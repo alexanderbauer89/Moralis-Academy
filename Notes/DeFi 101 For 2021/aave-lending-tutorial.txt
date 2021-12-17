@@ -1,0 +1,5 @@
+staging.aave.com to use testnet
+
+connect wallet to lend
+
+interest rates are market driven
