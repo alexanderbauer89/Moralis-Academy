@@ -1,0 +1,13 @@
+next step: lets create our own arbitrage opportunity and exploit this created opportunity
+
+we can create our own pools (factories) on uniswap clone
+
+uniswap creates an automated market maker
+we don't trade against order book but against the exchange contract
+
+most liquidity is still on centralized exchanges
+uniswap will never have 0 liquidity - there is always a buyer/seller
+
+create our own factory
+setup remix environment
+get new test eth and test tokens
