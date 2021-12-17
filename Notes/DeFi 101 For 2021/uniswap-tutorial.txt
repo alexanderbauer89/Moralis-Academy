@@ -1,0 +1,8 @@
+connect wallet
+select account
+give access
+
+make sure to test with testnet first
+watch price impact and allowed slippage
+
+wrapped eth is an erc20 token, eth not
