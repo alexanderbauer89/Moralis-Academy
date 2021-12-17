@@ -1,0 +1,17 @@
+what is a layer 2?
+
+blockchain scaling
+side chains + l2s
+zksync
+
+the scalability trilemmma: scalability <-> security <-> decentralization
+
+different ways to scale a blockchain
+sidechains
+zk-rollups
+optimistic rollups
+
+rollups/zk-rollups periodically save data on secure chain and are faster and as secure as main chain
+
+statistics at l2beat
+https://l2beat.com/
