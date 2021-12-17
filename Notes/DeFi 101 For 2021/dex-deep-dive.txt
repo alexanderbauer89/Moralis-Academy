@@ -1,0 +1,13 @@
+centralized exchanges lend out funds which leads to fractional banking
+
+most dexs don't use order books
+constant price formula x * y = k
+if one token prices goes up then the other token price goes down
+
+uniswap improved on this formula with constant liquidity that guarantees less slippage
+
+what if there is no trading pair?
+then order is auto routed through multiple pools
+however it's 2 swaps happening and fees apply for both  of them
+
+anyone can create a liquidity pool for 2 tokens if there isn't one already
