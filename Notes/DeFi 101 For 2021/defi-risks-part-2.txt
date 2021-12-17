@@ -1,0 +1,7 @@
+oracles provide information for smart contracts
+they take information outside of the blockchain and provide it to the blockchain
+there is no fully decentralized oracle
+oracle providers are incentivized to agree with majority not the truth
+chainlink has excellent track record
+
+black swan events are guranteed to happen on a long enough time line
