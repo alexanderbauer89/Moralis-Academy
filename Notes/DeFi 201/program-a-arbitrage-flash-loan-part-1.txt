@@ -1,0 +1,9 @@
+let's do an arbitrage flash loan on uniswap
+
+token can be borrowed on one DEX and sold the token on another DEX for a higher price
+after repaying the loan the arbitrage profit remains
+
+the advantage on defi vs. centralized is that transaction can be done instantanous
+
+get dai and bat from faucet
+open uniswap clone 1 and 2
