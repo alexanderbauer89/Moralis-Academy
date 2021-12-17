@@ -1,0 +1,13 @@
+avoid phishing / vishing
+email security
+password security
+hardware wallets
+two-factor authentication
+vpns
+
+sms 2fa is still unsecure
+
+the biggest risk is yourself
+
+be mindful and avoid complancency
+use testnets for practice
