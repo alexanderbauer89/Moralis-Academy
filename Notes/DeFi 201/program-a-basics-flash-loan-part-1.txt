@@ -1,0 +1,10 @@
+flash loans let us borrow without risk or opportunity cost
+can be used to make a profit when arbitrage opportunity exists
+flash loans can be programmed with remix IDE
+remix was developed by the ethereum foundation
+
+test ETH can be acquired from faucet.kovan.network
+switch to kovan test network in metamask and request test eth
+
+example will be a dai test loan for 10.000 usd
+testnet.aave.com faucet can be used to acquire test assets
