@@ -1,0 +1,12 @@
+Flash loans are atomically repaid
+if the transaction is not paid back then it never happened
+flash loans have no risk and no opportunity costs because time is frozen
+linearizability means events need to happen in order
+
+the company that first came up with flash loans was marble protocol (max wolff)
+polaris is there price oracle for ERC20 tokens
+another project is humanity
+
+flash loans can provide more liquidity to the market
+flash loans do not create new threats
+they only expand the number of people capable of harmful actions
