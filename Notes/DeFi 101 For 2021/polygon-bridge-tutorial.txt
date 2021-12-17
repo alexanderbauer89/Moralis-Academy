@@ -1,0 +1,8 @@
+polygon bridge moves asset from one chain to another
+this is usually quite expensive
+bridges still need some work to be more secure
+it might also take quite some time
+
+cheaper network airdrop some tokens to use for transactions
+
+the longer a protocol is around the safer it is, because it was under attack already and exploits would have been used
