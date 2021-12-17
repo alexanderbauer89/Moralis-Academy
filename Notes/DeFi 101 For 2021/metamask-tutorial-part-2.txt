@@ -1,0 +1,7 @@
+use koven testnetwork for this
+some dapps work only with some testnets and not with others
+
+name accounts to keep it organized
+
+get koven test eth:
+https://faucets.chain.link/kovan
