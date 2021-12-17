@@ -1,0 +1,14 @@
+most common metric for defi success are
+total value locked TVL
+and market cap of the token
+
+the risk depends on what tokens are actually locked in the protocol
+
+ltv = loan to value - collateral to money lent out - key indicator to risk
+higher ltv tend to have higher fees because there is more demand for lenders
+
+in aave a tokens are equal to value of original
+a tokens are interest bearing
+
+in compound the c token is not pegged to the original
+price slowly increases in value depending on interest rate
