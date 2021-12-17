@@ -1,0 +1,10 @@
+stablecoin is pegged to the value of another asset
+this gives stability of the other asset while having the advantages of crypto at the same time
+
+over 90% of stablecoin usage is in centralized stablecoins
+
+tether was the first stable coin, created by bitfinex in 2015
+controversy if it is really backed by usd
+token contract is centrally controlled - counter party risk
+
+centralized stablecoins are far more stable in volatility
