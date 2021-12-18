@@ -1,0 +1,20 @@
+created by dr. gavin wood, former cto of ethereum and creator of solidity
+next generation blockchain protocol connecting multiple specialzied blockchains into one unified network
+
+polkadot is a sharded multichain network
+parallel processing power improves scalability and eliminates bottlenecks
+parachains are sharded chains connected to polkadot
+
+one chaind does not fit all
+blockchains made trade offs and are optimized for one specific use case
+
+networks and applications can share information without relying on an centralized service provider
+polkadot offers interoperability and cross chain communication
+
+communities on polkadot govern their network as they see fit
+
+on-chain treasury
+
+parachains can tap into the shared security pool of relay chain
+
+forkless upgrades: blockchains can evolve and adopt easily to new technology
