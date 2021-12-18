@@ -1,0 +1,22 @@
+treasury is a pot of funds collected through transaction fees, slasking, staking inefficiencies
+if the treasury ends a budget period without spending all funds, it suffers a burn percentage
+when a stakeholder wishes to propose a spend from the treasury, they must reserve a deposit of 5% of the total propsed spend
+either slashed if rejected or returned if approved
+
+infrastructure deployment and continued operation
+network security operations
+ecosystem provisions
+marketing activities
+community events and outreach
+software development
+ultimately controlled by the council and their judgement how will be spent
+
+slahsing: when a validator is slashed and varies per offence
+transaction fees: a portion of each blocks transaction fees
+staking inefficiency: inflation based on the staking ratio
+parathreads: in a per-block auction
+
+start with treasury
+become active in community, join discord servers
+read up interesting treasury proposals on polkaasembly
+check live on-chain proposals
