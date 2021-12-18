@@ -1,0 +1,9 @@
+What are Extrinsics?
+
+Pieces of information that come from the outside of the chain and are included in the runtime
+Pieces of information that come from the inside of the chain and are excluded from a block
+Pieces of information that come from the outside of the chain and are included in a block
+Pieces of information that come from the outside of the chain and are excluded from a block
+Pieces of information that can come from anywhere and are included in a block
+
+> Pieces of information that come from the outside of the chain and are included in a block
