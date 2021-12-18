@@ -1,0 +1,9 @@
+What are Pallets?
+
+Small, low, portable platforms on which goods are placed for storage or moving
+Special kind of Linux modules from which the Substrate runtime can be composed
+Special kind of Rust modules from which the Substrate transactions can be composed
+Special kind of Rust modules from which the Substrate runtime can be composed
+Special kind of Rust modules to perform Forkless upgrades
+
+> Special kind of Rust modules from which the Substrate runtime can be composed
