@@ -1,0 +1,8 @@
+What are Controller keys?
+
+Public/private keypairs used to define a stash account. The account is like a savings account
+Public/private keypairs used to define a controller account and is used to spend the funds of the stash account
+Public/private keypairs used to define a controller account. The account is like a savings account
+Public/private keypairs used to define a controller account and is used to set preferences of the stash account
+
+> Public/private keypairs used to define a controller account and is used to set preferences of the stash account
