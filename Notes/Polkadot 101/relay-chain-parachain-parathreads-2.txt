@@ -9,3 +9,9 @@ parathreads share slots among groups
 both have the exact same API
 
 bridges can connect non-parachain chains to polkadot network built as a parachain module
+
+parachain is application-specific data structure that is globally coherent and validatable by the validators of the relay chain
+able to parallelize transaction processing and achieve scalability
+maintained by the network maintainer known as a collator
+
+parathreads an idea for parachain to temporarily participate in polkadot security
