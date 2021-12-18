@@ -1,0 +1,7 @@
+kusama is sometimes called pokadots wild cousin
+relased as an early version of the same code to be used in pokadot
+
+same key innovations like on-chain governave, swappable runtimes and xcmp
+
+polkadot high stability, high security, more conservative governance, high validator rewards
+kusama low barriers to entry, low bond requiredments for validators and low slashing penalities, fast iteration, latest tech
