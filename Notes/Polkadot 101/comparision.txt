@@ -1,0 +1,4 @@
+ethereum 2.0 and polkadot are both sharded protocols but ethereum is restricted to a single interface
+
+cosmos and polkadot are top two contenders to create a network of blockchains
+both trying to solve blockchain interoperability with subtle differences in protocols and design
