@@ -1,0 +1,17 @@
+ensures that the majority of the stake can always command the network
+active token holders and the council together administer a network upgrade decision
+
+referendea are simple, inclusive, stake-based voting-sechemes
+each referendum has a specific proposal associate with it
+discrete events with a fixed period where voting happens
+votes are binary: yes/no
+
+council represents passive stakeholders
+elections are handled by the phragmen election process
+controls the treasury and is called upon primarily for
+proposing sensible referenda
+cancelling uncontroversially dangerous or malicious referenda
+electing the technical committee
+
+technical commitee introduced in the kusama rollout and governance post as one of the three chambers of kusama governance
+the technical comittee, along with the council, can produce emergency referenda
