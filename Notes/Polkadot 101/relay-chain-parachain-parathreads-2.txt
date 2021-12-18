@@ -1,0 +1,11 @@
+all blockchains on polkadot are connected to the relay chain
+allows polkadot to process transactions from all chains in the network at the same time
+provides a secure way for chains to communicate with each other and exchange any idea for example a token
+chains can be optimised for a specific usecase
+
+polkadot can support a number of execution slots (like cores on a computer)
+two subscriptions models: parachains and parathreads
+parathreads share slots among groups
+both have the exact same API
+
+bridges can connect non-parachain chains to polkadot network built as a parachain module
