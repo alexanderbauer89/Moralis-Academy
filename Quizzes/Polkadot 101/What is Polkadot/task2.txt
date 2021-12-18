@@ -1,0 +1,8 @@
+What are the main benefits of Polkadot compared to other blockchains?
+
+Scalability, Specialization, Interoperability, Governance, Funding and Shared Security and Forkless Upgrades
+Serialization, Containerization, Totalitariansim, Abstraction, Split Security and Hard Forks
+Privacy, Private Security, Cold Wallet Management, Digital Identity
+None, just another blockchain
+
+> Scalability, Specialization, Interoperability, Governance, Funding and Shared Security and Forkless Upgrades
