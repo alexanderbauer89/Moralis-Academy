@@ -1,0 +1,8 @@
+Both Polkadot and Kusama are built with...
+
+Concrete, a partially scalable blockchain SDK.
+Substrate, a modular blockchain-building framework.
+Tendermint, a byzantine fault-tolerant middleware.
+BlackBox, a serverless blockchain application.
+
+> Substrate, a modular blockchain-building framework.
