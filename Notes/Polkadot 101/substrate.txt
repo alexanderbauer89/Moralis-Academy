@@ -1,0 +1,14 @@
+substrate is open-source, modular framework for building blockchains
+
+subtrate node:
+storage
+runtime
+p2p network
+consensus
+rpc
+telemetry
+
+3 ways to use substrate
+running a pre-designed subsrate node (easiest)
+with substrate frame = create your own runtime using frame
+with substrate core = design a runtime from scratch
