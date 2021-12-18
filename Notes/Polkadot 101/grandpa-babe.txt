@@ -1,0 +1,14 @@
+consensus is a method for coming to agreement over a shared state
+aims to provide the objective view of the state among participants who each have their own subjective view
+
+babe
+blind assignment for blockchain extension runs between validator nodes and determines the authors of new blocks
+validators will participate in a lottery in every slot
+
+grandpa
+ghost-based recursive ancestor deriving prefix agreement is the finality gadget
+reaches agreements on chains rather than blocks
+as soon as 2/3 of validators attest to a certain chain, all blocks up to that point are finalized at once
+
+babe must always build on the chain that has been finalized by grandpa
+longest chain might not qualify
