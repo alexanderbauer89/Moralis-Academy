@@ -1,0 +1,24 @@
+a piece of information that comes from outside the chain and is included in a block
+a block in substrate is composed of a header and an array of extrinsics
+
+inherents are pieces of informations that are not signed and only inserted in a block by the block author
+represents data that, in a opinionated fashion, describes one of a number of valid pieces of information -
+they are assumed to be true
+
+signed transactions
+contain a signature of the account that issued the transaction
+unsigned transactions - transactions that is not signed, for example the i'm online heartbeat
+(no fees, lack a nonce, no economical sense to prevent spam)
+
+transaction pool
+contains all transactions broadcasted by the network
+checks for transaction validity:
+transaction index (nonce)
+account has enough funds
+valid signature
+
+transaction queue sorts transactions into two groups
+ready queue - transactions that can be included in a block
+future queue - transactions may become valid in the future (for example if nonce is too high for account)
+
+custom runtime can modify strict transaction ordering requirements and implement unique strategies
