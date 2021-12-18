@@ -1,0 +1,2 @@
+download extension from polkadot js website
+and install
