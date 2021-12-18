@@ -1,0 +1,9 @@
+What is the Substrate runtime?
+
+Defines how blocks are processed, including the state transition logic
+Used to persist the evolving state of the decentralized system
+Allows clients to communicate with other network participants
+Allows network participants to agree with each other
+Allows blockchain users to interact with the network
+
+> Defines how blocks are processed, including the state transition logic
