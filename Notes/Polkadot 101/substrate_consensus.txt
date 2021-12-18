@@ -1,0 +1,30 @@
+substrate consensus
+
+blockchain runtime is a state machine
+
+blockchains must agree on:
+some inital state, called genesis
+a series of state transitions, each called a block
+a final (current) state
+
+all operations within a blockchains state transition function must be deterministic
+
+forks occur when two blocks reference the same parent and must be resolved such that only one canoical chain exists
+a fork choice rule is an algorithm that takes a blockchain and selects the "best" chain
+
+longest chain rule (used by bitcoin and papa)
+
+ghost says that starting at the genesis block, each fork is resolved by choosing the branch that has the most blocks built on it recusrivly
+
+some nodes in the blockchain network are able to produce new blocks (authoring)
+
+proof of work: any node may produce a block at any time as long as it has solved a computationally intensive problem
+
+slots (used by polkadot and kusama)
+a known set of validators who are permitted to produce blocks
+time is divided into discrete slots and during each slot only some of the validators may produce a block
+
+finality
+users in any system want to know their transactions are finalized
+using block authoring schemas and fork choice rules described so far, transactions are never entirely finalized
+when deterministic finality is desired, a finality gadget can be added to the blockchain logic
