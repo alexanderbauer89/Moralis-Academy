@@ -1,0 +1,17 @@
+substrate uses multiple sets of public/private key pairs to represent participants in the network
+
+a key pair can represent an account and control funds
+
+stash keys:
+like a savings account in that you should not make frequent transactions from
+it designates a controller account to make non-spending decisions
+
+controller keys:
+will signal ones intent to validate or nominate
+used to set preferences like rewards destination, set the session keys
+can never be used to spend funds from its stash account
+
+session keys
+are hot keys used by validators to sign consensus related messages
+can be changed regularly by the controller by creating a certifcate by signing a session public key
+and broadcast the certificate via an extrinsic
