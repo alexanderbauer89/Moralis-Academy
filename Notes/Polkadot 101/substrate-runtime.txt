@@ -1,0 +1,24 @@
+the runtime of a blockchain is the business logic that defines its behaviour
+
+the runtime is referred to as the state transition function
+
+frame defines additional runtime primitives and provides a framework that makes it easy to construct a runtime
+by composing modules called pallets
+
+pallets
+each pallet encapsulates domain-specific logic that is expressed as a set of storage items, events, errors and dispatchable functions
+pallets are special kind of rust modules from which the substrate runtime can be composed
+
+runtime upgrades
+in the frame sysyem, the system library defines a set_code call that is used to update the definition of the runtime
+forkless runtime upgrades
+the upgrade of the runtime logic can happen in real time without causing a fork
+
+sudo pallet
+allows for a single account to execute dispatchable functions
+
+democracy pallet
+handles adiministration of general stakeholder voting
+
+collective pallet
+members of a set of account IDs can make their collective feelings known
