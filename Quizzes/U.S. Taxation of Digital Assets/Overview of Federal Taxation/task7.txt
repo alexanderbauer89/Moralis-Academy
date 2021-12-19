@@ -1,0 +1,8 @@
+What is a tax table used for?
+
+To find how much money I paid in tax
+To calculate tax once you have arrived at taxable income
+To determine the amount of tax on long term capital gains
+To populate schedule 3
+
+> To calculate tax once you have arrived at taxable income
