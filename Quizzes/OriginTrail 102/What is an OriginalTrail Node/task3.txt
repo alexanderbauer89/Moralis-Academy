@@ -1,0 +1,6 @@
+OriginTrail Network Nodes can communicate with multiple blockchain networks simultaneously.
+
+True
+False
+
+> True
