@@ -1,0 +1,7 @@
+Which of the following describes a Sybil attack?
+
+When a group of miners controls more than 50% of the network and is prevents others from making new blocks.
+When a single user (or group) creates many pseudonymous identities to gain outsized influence in a network.
+When attackers send tiny amounts of Bitcoin to many different addresses, who then track the UTXOs to identify people or companies behind them.
+
+> When a single user (or group) creates many pseudonymous identities to gain outsized influence in a network.
