@@ -1,0 +1,13 @@
+How has Monero been improved since its initial launch?
+
+(Select all that apply)
+
+Increased the minimum ringsize.
+Make hidden amounts (RingCT) mandatory for all transactions.
+Introduced smaller/faster rangeproofs.
+Updated the Proof-of-Work algorithm.
+
+> Increased the minimum ringsize.
+> Make hidden amounts (RingCT) mandatory for all transactions.
+> Introduced smaller/faster rangeproofs.
+> Updated the Proof-of-Work algorithm.
