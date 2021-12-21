@@ -1,0 +1,6 @@
+The OriginTrail Decentralized Knowledge Graph is hosted by cloud computers (servers) distributed across the entire globe.
+
+True
+False
+
+> True
