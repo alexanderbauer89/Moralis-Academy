@@ -1,0 +1,8 @@
+Which standards are being leveraged by BSI in OriginTrail's assurance and compliance use case?
+
+EPCIS & CBV
+WoT
+Verifiable Credentials
+ID keys (GIAI,GRAI, GTIN etc)
+
+> Verifiable Credentials
