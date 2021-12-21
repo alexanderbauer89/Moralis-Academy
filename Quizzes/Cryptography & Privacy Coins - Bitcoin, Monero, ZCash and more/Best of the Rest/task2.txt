@@ -1,0 +1,12 @@
+Which statements are true of both GRIN and BEAM?
+
+(Select all that apply)
+
+They are community-funded, like Monero
+They are implementations of the MimbleWimble protocol
+Their code is currently public
+They use Dandelion
+
+> They are implementations of the MimbleWimble protocol
+> Their code is currently public
+> They use Dandelion
