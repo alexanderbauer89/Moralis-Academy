@@ -1,0 +1,6 @@
+HD wallets require a 'shared secret' between sender and receiver.
+
+TRUE
+FALSE
+
+> TRUE
