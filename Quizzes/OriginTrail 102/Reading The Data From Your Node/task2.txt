@@ -1,0 +1,6 @@
+The Trail call will not return the whole “trail of events” that have been published on the network regarding this specific object.
+
+True
+False
+
+> False
