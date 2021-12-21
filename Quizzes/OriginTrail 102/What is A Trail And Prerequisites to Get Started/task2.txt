@@ -1,0 +1,6 @@
+To introduce A dataset to the network, we first need to import it to the node using the import command.
+
+True
+False
+
+> True
