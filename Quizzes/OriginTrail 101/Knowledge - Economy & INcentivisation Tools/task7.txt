@@ -1,0 +1,8 @@
+OriginTrail's Consensus layer currently supports ...
+
+Ethereum and Bitcoin blockchain
+Ethereum and xDai blockchain
+xDai and Cardano blockchain
+xDai and Bitcoin blockchain
+
+> Ethereum and xDai blockchain
