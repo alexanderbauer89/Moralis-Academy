@@ -1,0 +1,8 @@
+Knowledge tokens are ...
+
+NFT's that only represent knowledge and cannot be moved from your Knowledge Wallet.
+Cryptographic tokens that represent knowledge but do not posses the same properties of commonly referenced ERC20 tokens.
+Cryptographic tokens that represent knowledge and posses the same properties of commonly referenced ERC20 tokens.
+None of the above
+
+> Cryptographic tokens that represent knowledge and posses the same properties of commonly referenced ERC20 tokens.
