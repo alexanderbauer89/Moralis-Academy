@@ -1,0 +1,6 @@
+GRIN was founded by the creator of MimbleWimble.
+
+TRUE
+FALSE
+
+> FALSE
