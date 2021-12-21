@@ -1,0 +1,8 @@
+The ___ wallet is used to fund the daily operations of an OriginTrail Network Node.
+
+Management
+Operational
+Service
+Command
+
+> Operational
