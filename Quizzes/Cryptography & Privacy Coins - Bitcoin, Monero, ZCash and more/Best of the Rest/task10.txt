@@ -1,0 +1,8 @@
+Which statement about Incognito is false?
+
+It uses many of the same technologies as other Privacy Coins
+can be used with many different cryptocurrencies
+Shielded transactions take place on a ‘sidechain’
+It can be used to ‘shield’ Bitcoin without any record on the Bitcoin blockchain
+
+> It can be used to ‘shield’ Bitcoin without any record on the Bitcoin blockchain
