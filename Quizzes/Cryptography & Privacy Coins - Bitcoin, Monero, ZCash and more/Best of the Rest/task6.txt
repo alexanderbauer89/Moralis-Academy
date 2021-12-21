@@ -1,0 +1,8 @@
+Which statement below about privacy on MimbleWimble is accurate?
+
+It was largely abandoned in 2019 after a Medium post revealed its limitations
+It uses basic Elliptic Curve Cryptography to shield the sender and receiver addresses
+MimbleWimble makes it easy to link an IP address to specific inputs and outputs
+Dandelion, a protocol used by both GRIN and BEAM, makes it possible to see individual transactions before they are CoinJoined
+
+> Dandelion, a protocol used by both GRIN and BEAM, makes it possible to see individual transactions before they are CoinJoined
