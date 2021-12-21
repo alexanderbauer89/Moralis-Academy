@@ -1,0 +1,6 @@
+There is no need to add an xDAI RPC to the configuration of your OriginTrail node as it uses a default RPC.
+
+True
+False
+
+> True
