@@ -1,0 +1,8 @@
+Which statement about DASH's Private Send is false?
+
+The term 'CoinJoin' comes from the DASH whitepaper.
+Private Send can be used to decorrelate sender and receiver.
+Private Send coordinated by master nodes.
+You can increase privacy (anonymity set) by using Private Send multiple times in a row.
+
+> The term 'CoinJoin' comes from the DASH whitepaper.
