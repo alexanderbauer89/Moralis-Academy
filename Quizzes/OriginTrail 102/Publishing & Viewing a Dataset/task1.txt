@@ -1,0 +1,8 @@
+Which command begins the process of publishing a dataset on the OriginTrail Decentralized Network?.
+
+Import Command
+Replicate Command
+Result Command
+Trail Command
+
+> Replicate Command
