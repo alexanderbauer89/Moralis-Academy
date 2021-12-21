@@ -1,0 +1,6 @@
+An OriginTrail Node stores data from the Bitcoin blockchain which allows for consensus to be achieved on the OriginTrail Decentralized Network.
+
+True
+False
+
+> False
