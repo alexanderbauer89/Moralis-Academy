@@ -1,0 +1,7 @@
+The OriginTrail Decentralized Knowledge Graph supports a multitude of standards.
+Including GS1 EPCIS and its sister standard "CBV".
+
+True
+False
+
+> True
