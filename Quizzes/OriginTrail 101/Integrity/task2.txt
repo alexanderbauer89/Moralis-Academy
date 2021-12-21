@@ -1,0 +1,8 @@
+At which layer are more blockchains added to the OriginTrail Decentralized Network?
+
+Data layer
+Consensus layer
+Service layer
+OriginTrail layer
+
+> Consensus layer
