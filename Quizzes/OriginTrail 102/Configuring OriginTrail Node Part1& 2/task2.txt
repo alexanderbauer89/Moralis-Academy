@@ -1,0 +1,6 @@
+If you decide to do so, you can use the same wallet for both xDAI and Ethereum blockchains as they are compatible.
+
+True
+False
+
+> True
