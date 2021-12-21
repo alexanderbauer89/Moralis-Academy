@@ -1,0 +1,8 @@
+Which of the following best describes OriginTrail Technological Implementation?
+
+OriginTrail's Decentralized Knowledge Graph is only open source but not cryptographically secure. Not allowing for all business partners to maintain competitive advantages and share data with ease but only a few.
+OriginTrail's Decentralized Knowledge Graph is not open source and does not provide privacy.
+OriginTrail's Decentralized Knowledge Graph is a centralized implementation that has high throughput.
+OriginTrail's Decentralized Knowledge Graph is both open source and cryptographically secure. Allowing for business partners to maintain competitive advantage and share data with ease.
+
+> OriginTrail's Decentralized Knowledge Graph is both open source and cryptographically secure. Allowing for business partners to maintain competitive advantage and share data with ease.
