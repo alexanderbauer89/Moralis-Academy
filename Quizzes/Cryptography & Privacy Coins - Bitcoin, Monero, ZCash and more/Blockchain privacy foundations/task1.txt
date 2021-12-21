@@ -1,0 +1,6 @@
+A Privacy Coin hides one or more of the following fields in a transaction: Sender, Receiver, Amount, IP Address.
+
+TRUE
+FALSE
+
+> FALSE
