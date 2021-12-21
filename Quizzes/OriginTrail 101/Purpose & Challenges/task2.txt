@@ -1,0 +1,8 @@
+What key features are missing from decentralized solutions today?
+
+High performance
+Scalability
+Cost effectiveness
+All of the above
+
+> All of the above
