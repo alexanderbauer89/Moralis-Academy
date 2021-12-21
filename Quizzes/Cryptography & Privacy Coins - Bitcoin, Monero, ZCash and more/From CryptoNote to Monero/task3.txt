@@ -1,0 +1,12 @@
+Which of the following statements are true for Ring Signatures?
+
+(Select all that apply)
+
+The anonymity set is equal to the number of decoys + 1.
+They require a list of spent key images to be stored in the block header.
+The quality of the decoys affects the level of privacy.
+They were developed specifically for Monero.
+
+> The anonymity set is equal to the number of decoys + 1.
+> They require a list of spent key images to be stored in the block header.
+> The quality of the decoys affects the level of privacy.
