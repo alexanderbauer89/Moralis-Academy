@@ -1,0 +1,8 @@
+Which of the following describes Monero?
+
+It was released prior to the CryptoNote v2.0 whitepaper and a large amount had already been mined by the time it was announced.
+It was released shortly after CryptoNote v2.0 as a fork of Bitmonero.
+It was released shortly after CryptoNote v2.0 as a fork of ByteCoin.
+It was released to compete with Zcash in Darknet markets.
+
+> It was released shortly after CryptoNote v2.0 as a fork of Bitmonero.
