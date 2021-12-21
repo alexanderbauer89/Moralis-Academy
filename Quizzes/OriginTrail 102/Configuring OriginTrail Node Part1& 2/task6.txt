@@ -1,0 +1,8 @@
+This software is required in order to launch your OriginTrail Node Instance.
+
+Handbreak
+Microsoft Azure
+Amazon Web Services
+Docker
+
+> Docker
