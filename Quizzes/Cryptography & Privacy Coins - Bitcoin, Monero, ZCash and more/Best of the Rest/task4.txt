@@ -1,0 +1,8 @@
+Which statement is false?
+
+Cut-through can improve privacy.
+Cut-through can improve scalability.
+Cut-through removes old (spent) outputs on the blockchain.
+Cut-through removes the addresses associated with old (spent) outputs.
+
+> Cut-through removes the addresses associated with old (spent) outputs.
