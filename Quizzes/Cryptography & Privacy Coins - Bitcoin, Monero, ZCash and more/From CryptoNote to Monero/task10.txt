@@ -1,0 +1,6 @@
+Monero’s current development is funded entirely by donations.
+
+TRUE
+FALSE
+
+> FALSE
