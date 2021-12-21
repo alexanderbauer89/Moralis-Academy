@@ -1,0 +1,8 @@
+The ___ wallet is usually a cold wallet and is used to refund or "top up" balances of the ___ wallet.
+
+Management, Service
+Operational, Command
+Service, Operational
+Management, Operational
+
+> Management, Operational
