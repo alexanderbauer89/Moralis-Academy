@@ -1,0 +1,11 @@
+RingCT builds on which two existing technologies?
+
+(Select all that apply)
+
+Stealth Addresses
+Ring Signatures
+Confidential Transactions
+Bulletproofs
+
+> Ring Signatures
+> Confidential Transactions
