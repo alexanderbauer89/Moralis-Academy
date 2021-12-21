@@ -1,0 +1,7 @@
+The OriginTrail Decentralized Knowledge Graph is NOT blockchain agnostic.
+Meaning, it cannot integrate with and leverage the benefits of any blockchain.
+
+True
+False
+
+> False
