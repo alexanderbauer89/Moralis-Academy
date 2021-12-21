@@ -1,0 +1,12 @@
+Which of the following technologies is MimbleWimble based on?
+
+(Select all that apply)
+
+CoinJoin
+One-Way Aggregate Signatures
+Confidential Transactions
+Stealth Addresses
+
+> CoinJoin
+> One-Way Aggregate Signatures
+> Confidential Transactions
