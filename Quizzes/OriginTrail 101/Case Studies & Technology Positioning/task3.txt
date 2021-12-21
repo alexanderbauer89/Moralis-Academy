@@ -1,0 +1,8 @@
+Which of the following best describes the areas in which OpenPKG is applicable?
+
+Data Portability & Personal Data
+Blockchain Based Verification
+Decentralized Identification
+OriginTrail SCAN
+
+> Data Portability & Personal Data
