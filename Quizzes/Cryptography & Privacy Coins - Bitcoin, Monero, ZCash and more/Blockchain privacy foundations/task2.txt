@@ -1,0 +1,11 @@
+Which of the following statements about Bitcoin are true?
+
+(Select all that apply)
+
+To create a signature for a UTXO, you must use the same private key that was used to generate the public key that 'received' the UTXO.
+Creating new keypairs for each transaction was proposed by gmaxwell on the Bitcointalk forum.
+The issue of 'linking' was identified in the original Bitcoin whitepaper.
+Details about your personal identity are stored on the Bitcoin explorer.
+
+> To create a signature for a UTXO, you must use the same private key that was used to generate the public key that 'received' the UTXO.
+> The issue of 'linking' was identified in the original Bitcoin whitepaper.
