@@ -1,0 +1,8 @@
+BEAM uses _________ to protect against sniffing attacks.
+
+Tor
+Decoy Outputs
+Bulletproofs
+Lelantus
+
+> Decoy Outputs
