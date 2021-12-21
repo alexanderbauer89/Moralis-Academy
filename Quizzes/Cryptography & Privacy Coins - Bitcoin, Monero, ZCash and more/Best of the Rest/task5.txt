@@ -1,0 +1,6 @@
+MimbleWimble, as described in the original whitepaper, requires interactivity between sender and receiver.
+
+TRUE
+FALSE
+
+> TRUE
