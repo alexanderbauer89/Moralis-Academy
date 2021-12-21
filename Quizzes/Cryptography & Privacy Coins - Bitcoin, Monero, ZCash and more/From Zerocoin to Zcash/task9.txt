@@ -1,0 +1,8 @@
+Which Zcash operation is not supported by Gemini?
+
+Deposits from unshielded addresses
+Deposits from shielded addresses
+Withdrawals to unshielded addresses
+Withdrawals to shielded addresses
+
+> Deposits from shielded addresses
