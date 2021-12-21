@@ -1,0 +1,6 @@
+To communicate with the Ethereum Network an Ethereum RPC Endpoint must be added to your node configuration documentation.
+
+True
+False
+
+> True
