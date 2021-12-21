@@ -1,0 +1,8 @@
+What is an OriginTrail Graph Dataset?
+
+A generic graph dataset supported natively by the OriginTrail node client, which describes linked otObjects
+A generic graph dataset supported natively by the xDAI node client, which describes linked otObjects
+A generic graph dataset supported natively by both xDAI and Ethereum node clients, which describes linked otObject
+A generic graph dataset supported natively by the VPS Operating System, which describes linked otObjects
+
+> A generic graph dataset supported natively by the OriginTrail node client, which describes linked otObjects
