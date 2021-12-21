@@ -1,0 +1,8 @@
+Knowledge providers and knowledge consumers leverage ____ directly.
+
+Network layer and consensus layer
+Data layer and application layer
+Application layer and service layer
+Application layer and network layer
+
+> Application layer and service layer
