@@ -1,0 +1,8 @@
+___ TRAC is currently the required stake to create an OriginTrail ERC725 OriginTrail Node ID.
+
+1000
+3000
+2500
+5000
+
+> 3000
