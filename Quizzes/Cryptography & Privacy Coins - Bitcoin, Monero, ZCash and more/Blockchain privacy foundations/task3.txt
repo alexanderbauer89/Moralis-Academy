@@ -1,0 +1,9 @@
+What is the anonymity set for someone receiving Bitcoin from BitLaundry in block i,
+where d is delay period and R is the maximum delay period?
+
+All tx sent to BL in block i-1 to i-R
+All tx sent to BL of same denomination in block i-1 to i-d
+All tx sent to BL of same denomination in block i-1 to i-R
+All tx sent to BL of same denomination in block i+1 to i+R
+
+> All tx sent to BL of same denomination in block i-1 to i-R
