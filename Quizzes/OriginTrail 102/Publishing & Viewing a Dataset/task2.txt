@@ -1,0 +1,6 @@
+The replication process can last for several minutes and is determined by the dc_choose_time setting in the node configuration file.
+
+True
+False
+
+> True
