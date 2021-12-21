@@ -1,0 +1,6 @@
+Zcash’s development has been funded 100% by block rewards.
+
+TRUE
+FALSE
+
+> FALSE
