@@ -1,0 +1,11 @@
+What pieces of information are shielded on Verge?
+
+(Select all that apply)
+
+Sender
+Receiver
+Amount
+IP Adress
+
+> Receiver
+> IP Adress
