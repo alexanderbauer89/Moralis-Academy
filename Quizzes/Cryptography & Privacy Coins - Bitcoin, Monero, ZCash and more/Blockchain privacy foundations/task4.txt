@@ -1,0 +1,11 @@
+Which of the following statements about ECC (elliptic curve cryptography) are true? Select all that apply.
+
+(Select all that apply)
+
+ECC was developed for Bitcoin.
+A modern supercomputer can find the private key for a public key by guess-and-check (brute force).
+The 'number of transformations' is usually the private key, and the 'destination point' is usally the public key.
+ECC is well-proven and generally trusted technology.
+
+> ECC was developed for Bitcoin.
+> The 'number of transformations' is usually the private key, and the 'destination point' is usally the public key.
