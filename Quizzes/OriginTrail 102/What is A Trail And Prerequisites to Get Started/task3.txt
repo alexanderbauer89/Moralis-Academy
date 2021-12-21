@@ -1,0 +1,8 @@
+Which of the following standards is not supported by OriginTrail?.
+
+GS1 EPCIS
+W3C WOT
+GS1 CBV
+GS1 BPPDC
+
+> GS1 BPPDC
