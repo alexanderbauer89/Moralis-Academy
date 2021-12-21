@@ -1,0 +1,8 @@
+Token will be transfered from the ___ wallet upon creation of your OriginTrail ERC725 Node ID.
+
+Management
+Operational
+Service
+Command
+
+> Operational
