@@ -1,0 +1,8 @@
+Which of the following layers deal with running OriginTrail Decentralized Network nodes?
+
+Data layer
+Consensus layer
+Service layer
+Network layer
+
+> Network layer
