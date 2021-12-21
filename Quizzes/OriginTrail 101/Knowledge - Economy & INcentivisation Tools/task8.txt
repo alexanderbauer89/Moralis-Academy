@@ -1,0 +1,8 @@
+OriginTrail Decentralized Network node runners primarily leverage the ____
+
+Service layer, consensus layer and application layer
+Data layer, network layer and consensus layer
+Service layer, data layer and network layer
+Data layer and consensus layer
+
+> Service layer, data layer and network layer
