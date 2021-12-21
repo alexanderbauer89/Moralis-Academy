@@ -1,0 +1,8 @@
+Which of the following layers does NOT exist within the Origintrail technology stack?
+
+Data layer
+Consensus layer
+Service layer
+OriginTrail layer
+
+> OriginTrail layer
