@@ -1,0 +1,6 @@
+Once the amount of exchanged datasets about a specific object in the supply chain grows more information about this object will be returned by the trail call.
+
+True
+False
+
+> True
