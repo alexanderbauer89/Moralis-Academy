@@ -1,0 +1,8 @@
+How can HD wallets improve privacy?
+
+They prevent dusting attacks by rejecting 'dust' transactions
+They combine many unrelated inputs and outputs into a single transaction
+They make it easy to create many different addresses from a single private key.
+They make linking impossible by creating a new address for each transaction.
+
+> They make it easy to create many different addresses from a single private key.
