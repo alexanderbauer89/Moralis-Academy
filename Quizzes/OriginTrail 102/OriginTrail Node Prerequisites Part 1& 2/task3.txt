@@ -1,0 +1,8 @@
+In order for an OriginTrail node to communicate with a desired blockchain network you must insert a ____.
+
+Database for blockchain networks
+RPC Endpoint
+OriginTrail StarfleetChain Super Server Event-Based Coordinator Mechanism
+Event Tracker
+
+> RPC Endpoint
