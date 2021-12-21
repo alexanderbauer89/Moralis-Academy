@@ -1,0 +1,8 @@
+What are some of the positive advantages of Mainframe Computers?
+
+They are reliable, have high-level computing, and great security features.
+They are flexible, scalable and transparent.
+They are reliable, scalable and cheap to maintain.
+They require no specific programming knowledge and are easy to maintain
+
+> They are reliable, have high-level computing, and great security features.
