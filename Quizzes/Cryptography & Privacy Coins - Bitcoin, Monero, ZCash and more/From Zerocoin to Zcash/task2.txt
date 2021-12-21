@@ -1,0 +1,6 @@
+Matthew Green was a founder of Zcoin.
+
+TRUE
+FALSE
+
+> FALSE
