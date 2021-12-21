@@ -1,0 +1,6 @@
+Newer blockchain implemntations cannot be added via your OriginTrail Node Configuration Documentation.
+
+True
+False
+
+> False
