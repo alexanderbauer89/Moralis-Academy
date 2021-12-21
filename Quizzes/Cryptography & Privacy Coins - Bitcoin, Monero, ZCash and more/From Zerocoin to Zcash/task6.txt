@@ -1,0 +1,12 @@
+Which statements about Zcash’s Genesis Ceremony are true?
+
+(Select all that apply)
+
+It was conducted by several people in different locations.
+It had to be re-done after a security breach in 2019.
+The details were kept private until after it was complete.
+All stages of the ceremony were rigorously documented.
+
+> It was conducted by several people in different locations.
+> The details were kept private until after it was complete.
+> All stages of the ceremony were rigorously documented.
