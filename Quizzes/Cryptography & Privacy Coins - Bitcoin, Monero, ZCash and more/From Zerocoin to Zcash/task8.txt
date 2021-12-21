@@ -1,0 +1,12 @@
+What information is shielded in a zcash shielded transaction?
+
+(Select all that apply)
+
+Sender
+Receiver
+Amount
+IP Address
+
+> Sender
+> Receiver
+> Amount
