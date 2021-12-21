@@ -1,0 +1,8 @@
+What do we mean with unbundling and bundling in fintech?
+
+It is the process of banks creating regulatory technologies.
+It is the process where products in banks are being broken out and re-created by a fintech and offered as a single service and then been put back together with other products into a package of products in a bank or fintech again.
+It is the process of rebuilding a bank without taking away any of the existing services.
+It is the process that makes fintechs more similar to banks.
+
+> It is the process where products in banks are being broken out and re-created by a fintech and offered as a single service and then been put back together with other products into a package of products in a bank or fintech again.
