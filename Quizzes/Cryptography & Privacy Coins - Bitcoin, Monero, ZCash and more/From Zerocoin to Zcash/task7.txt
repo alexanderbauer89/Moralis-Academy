@@ -1,0 +1,6 @@
+Most ZEC transactions today are unshielded, and have the same level of privacy as base Bitcoin.
+
+TRUE
+FALSE
+
+> TRUE
