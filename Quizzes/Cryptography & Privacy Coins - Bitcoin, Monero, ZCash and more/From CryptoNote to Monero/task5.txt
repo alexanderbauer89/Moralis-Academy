@@ -1,0 +1,8 @@
+What do we call this expression: v*H + r*G
+
+A Pedersen Commitment
+ECDSA
+Confidential Transactions
+The commutative/associative property
+
+> A Pedersen Commitment
