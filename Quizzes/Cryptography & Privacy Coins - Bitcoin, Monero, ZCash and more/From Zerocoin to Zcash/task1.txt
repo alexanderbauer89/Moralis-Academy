@@ -1,0 +1,8 @@
+What is the best description of Zerocoin?
+
+A trustless mixer service implemented at the protocol level.
+A privacy solution that utilizes zero knowledge proofs.
+A system for hiding all identifying information in a transaction.
+A system to enable private transactions between two parties.
+
+> A trustless mixer service implemented at the protocol level.
