@@ -1,0 +1,6 @@
+AZTEC uses a system of ‘Notes’ to make Ethereum function like a UTXO ledger.
+
+TRUE
+FALSE
+
+> TRUE
