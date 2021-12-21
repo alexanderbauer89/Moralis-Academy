@@ -1,0 +1,6 @@
+The CryptoNote whitepaper that is most commonly referenced (CryptoNote v2.0) was released approximately a year after the first version.
+
+TRUE
+FALSE
+
+> FALSE
