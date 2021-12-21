@@ -1,0 +1,6 @@
+If an OriginTrail server is destroyed all local backups will be destroyed.
+
+True
+False
+
+> True
