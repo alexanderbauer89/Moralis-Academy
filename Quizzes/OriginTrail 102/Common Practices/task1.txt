@@ -1,0 +1,6 @@
+It is advised to apply a healthy backup schedule for OriginTrail Node implementations.
+
+True
+False
+
+> True
