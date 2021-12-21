@@ -1,0 +1,6 @@
+CoinJoin and mixer services are easily broken by Chainalyis's software.
+
+TRUE
+FALSE
+
+> FALSE
