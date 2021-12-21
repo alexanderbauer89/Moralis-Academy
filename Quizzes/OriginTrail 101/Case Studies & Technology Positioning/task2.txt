@@ -1,0 +1,6 @@
+Does the Swiss Federal Railways implementation leverage the use of OriginTrail's Gateway Services?
+
+Yes
+No
+
+> Yes
