@@ -1,0 +1,8 @@
+Which of the following best describes the concept of Interconnectivity in Origintrail?
+
+Querying datasets on the network
+Applying standards to datasets
+Bringing additional context to datasets
+Data Provenance, Data Immutability, & Security
+
+> Bringing additional context to datasets
