@@ -1,0 +1,8 @@
+Data silos exist across supply chains because?
+
+Blockchains are not scalable.
+Supply chains should be private.
+There is a crucial technical challenge that needs to be resolved.
+GS1 standards cannot scale.
+
+> There is a crucial technical challenge that needs to be resolved.
