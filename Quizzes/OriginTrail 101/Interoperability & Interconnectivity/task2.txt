@@ -1,0 +1,8 @@
+Which of the following best describes the concept of Interoperability in OriginTrail?
+
+Querying datasets on the network
+Applying standards to datasets
+Bringing additional context to data
+Data Provenance, Data Immutability & Security
+
+> Applying standards to datasets
