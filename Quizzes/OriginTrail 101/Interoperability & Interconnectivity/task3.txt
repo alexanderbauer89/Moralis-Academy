@@ -1,0 +1,8 @@
+Which of the following best describes the concept of linked data?
+
+Linked data is about making connections between data points. Bringing additional context to data for humans and machines.
+Linked data is data stored in a blockchain.
+Linked data is about making data searchable on Google.
+Linked data is a W3C standard that ensures data immutability.
+
+> Linked data is about making connections between data points. Bringing additional context to data for humans and machines.
