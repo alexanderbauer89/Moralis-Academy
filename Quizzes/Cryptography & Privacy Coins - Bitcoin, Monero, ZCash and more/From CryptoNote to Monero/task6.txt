@@ -1,0 +1,8 @@
+What is the function of a ‘range proof’?
+
+To improve scalability for the blockchain.
+To prove that one signature in a ring signature is correct without revealing which one.
+To hide the amount of a transaction.
+To prove that a Pedersen Commitment is within a certain range.
+
+> To prove that a Pedersen Commitment is within a certain range.
