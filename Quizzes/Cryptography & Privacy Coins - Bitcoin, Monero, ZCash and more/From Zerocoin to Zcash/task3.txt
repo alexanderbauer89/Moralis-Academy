@@ -1,0 +1,8 @@
+The Zerocoin protocol was essentially abandoned in 2019 because…
+
+There were many superior alternatives.
+A bug was discovered that allowed multiple spends from a single mint.
+A bug was discovered that allowed transaction linking.
+Zcoin upgraded to Sigma and the industry followed suit
+
+> A bug was discovered that allowed multiple spends from a single mint.
