@@ -1,0 +1,8 @@
+What was the MAIN benefit of CoinJoin over Zerocoin for Bitcoin?
+
+CoinJoin did not require a fork of the Bitcoin protocol.
+CoinJoin had a larger anonymity set.
+CoinJoin didn't require trusted setup.
+Validation was faster on CoinJoin transactions.
+
+> CoinJoin did not require a fork of the Bitcoin protocol.
