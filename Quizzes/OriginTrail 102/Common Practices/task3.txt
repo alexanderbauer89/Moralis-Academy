@@ -1,0 +1,8 @@
+Which docker command launches your OriginTrail log file.
+
+Docker logs -f otnode
+Docker check logs
+Origintrail docker -f check
+Command insert docker -f otnode
+
+> Docker logs -f otnode
