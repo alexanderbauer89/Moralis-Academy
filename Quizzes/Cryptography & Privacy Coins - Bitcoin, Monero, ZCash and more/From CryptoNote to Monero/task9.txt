@@ -1,0 +1,8 @@
+What piece of information does Dandelion attempt to hide?
+
+Sender
+Receiver
+Amount
+IP Adress
+
+> IP Adress
