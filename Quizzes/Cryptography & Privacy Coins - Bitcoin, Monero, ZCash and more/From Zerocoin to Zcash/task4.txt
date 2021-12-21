@@ -1,0 +1,8 @@
+Which of the following is an advantage of Zerocoin over Zerocash?
+
+It uses more advanced cryptography.
+Validating transactions is faster.
+It received more funding.
+The total supply is auditable.
+
+> The total supply is auditable.
