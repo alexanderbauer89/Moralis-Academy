@@ -1,0 +1,8 @@
+Which statement best describes the benefit of Stealth Addresses?
+
+Makes it easy for receivers to generate one-time-use addresses.
+Shields the receiver’s identity by bypassing KYC requirements.
+Hides the sender by combining the signature with a group of decoys.
+Uses ‘Master Public Keys’ and a Tx Public Key to let senders generate one-time-use addresses for receivers.
+
+> Uses ‘Master Public Keys’ and a Tx Public Key to let senders generate one-time-use addresses for receivers.
