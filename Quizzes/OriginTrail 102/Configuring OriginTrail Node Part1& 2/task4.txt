@@ -1,0 +1,6 @@
+Origin Trail Nodes can be launched on any compatible machine as long as hardware and software requirements are met.
+
+True
+False
+
+> True
