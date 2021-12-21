@@ -1,0 +1,8 @@
+Which statement best describes the relationship between Zerocoin and Zerocash?
+
+They both include the word ‘zero’.
+They share several of the same authors.
+They were funded by the same program.
+Zerocash is an improved/updated version of Zerocoin.
+
+> They share several of the same authors.
