@@ -1,0 +1,6 @@
+Blockchain in the supply chain has scalability issues.
+
+True
+False
+
+> False
