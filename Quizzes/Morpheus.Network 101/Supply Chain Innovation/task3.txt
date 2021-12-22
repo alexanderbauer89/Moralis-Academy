@@ -1,0 +1,6 @@
+Decentralized blockchains are immutable. True or False?
+
+True
+False
+
+> True
