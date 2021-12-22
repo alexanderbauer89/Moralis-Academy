@@ -1,0 +1,8 @@
+Why did we use a local chainlink node built from the github instead of a docker chainlink node?
+
+Source code is always the best
+Docker doesn’t work
+To test and iterate faster than with docker
+We also used docker
+
+> To test and iterate faster than with docker
