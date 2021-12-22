@@ -1,0 +1,8 @@
+What does Strong Customer Authentication (SCA) mean for businesses?
+
+It is a part of PSD2 that requires a special type of authentication for special clients.
+It is a part of PSD2 that requires firms to do multi-factor authentications when making payments and accessing financial data, and you need to provide at least two out of three authentication methods.
+It is a part of PSD3 that might be coming in 2022.
+It is a part of PSD1 that very few banks and businesses are actually compliant with.
+
+> It is a part of PSD2 that requires firms to do multi-factor authentications when making payments and accessing financial data, and you need to provide at least two out of three authentication methods.
