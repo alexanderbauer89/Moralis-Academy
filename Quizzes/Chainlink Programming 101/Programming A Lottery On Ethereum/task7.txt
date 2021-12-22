@@ -1,0 +1,8 @@
+In order to fulfill a request, an oracle contract needs to have called what function on the node address?
+
+setfulfillmentpermission
+activateoracle
+startoraclejobs
+delegateandcall
+
+> setfulfillmentpermission
