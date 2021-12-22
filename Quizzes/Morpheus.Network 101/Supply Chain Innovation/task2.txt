@@ -1,0 +1,8 @@
+A smart contract is
+
+A business rule implied by a contract embedded in the blockchain
+A cognitive contract
+A legal contract that is written in constrained English
+None of these
+
+> A business rule implied by a contract embedded in the blockchain
