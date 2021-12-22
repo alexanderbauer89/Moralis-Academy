@@ -1,0 +1,8 @@
+Who can access real data through PSD2 APIs?
+
+Anyone from anywhere in the world, there are no requirements needed.
+Any Fintech that follows Anti Money Laundering regulations.
+Anyone or Any party who has a license through any local FSA in any European country.
+Any Fintech that has under 5000 Customers.
+
+> Anyone or Any party who has a license through any local FSA in any European country.
