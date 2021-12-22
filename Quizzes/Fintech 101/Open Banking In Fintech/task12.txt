@@ -1,0 +1,8 @@
+Why can it be a good idea to use an Open Banking API Aggregator?
+
+Because it makes it simpler to hook up to multiple banks and financial institutions APIs
+Because it aggregates legal documents for API Access all around the world
+Because it aggregates all APIs in a bank and makes it possible for you to access APIs beyond PSD2
+Because it will save all data so that I don’t have to access the bank APIs
+
+> Because it makes it simpler to hook up to multiple banks and financial institutions APIs
