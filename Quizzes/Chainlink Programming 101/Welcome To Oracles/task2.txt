@@ -1,0 +1,7 @@
+If we deliver data to our smart contract ourselves, is our smart contract decentralized?
+
+Yes, a single person or entity can be decentralized
+No, you need both the logic and data layer in a smart contract to be decentralized
+Yes, data is data
+
+> No, you need both the logic and data layer in a smart contract to be decentralized
