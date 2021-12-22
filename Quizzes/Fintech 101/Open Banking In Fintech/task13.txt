@@ -1,0 +1,8 @@
+What is Open Finance?
+
+Its a term used to describe the extension of open banking data sharing principles to enable third-party providers to access customers' data across a broader range of the financial sector and its products.
+It is a term used to describe open source systems in the financial industry
+It is a term bankers use for public blockchains
+It is a term used to describe the data aggregated through Open Banking APIs
+
+> Its a term used to describe the extension of open banking data sharing principles to enable third-party providers to access customers' data across a broader range of the financial sector and its products.
