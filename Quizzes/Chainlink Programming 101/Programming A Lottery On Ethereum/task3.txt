@@ -1,0 +1,9 @@
+What command can we use to start up a project with boilerplate code?
+
+npm install chainlink
+truffle start projects chainlink
+New Choicetruffle migrate newproject –to me
+truffle unbox smartcontractkit/box
+npm yarn chainlink solidity
+
+> truffle unbox smartcontractkit/box
