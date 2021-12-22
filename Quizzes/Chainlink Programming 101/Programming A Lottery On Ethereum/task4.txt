@@ -1,0 +1,9 @@
+What are the environment variables we need to set to work with the chainlink truffle box?
+
+RPC_URL and MNEMONIC
+RPC_URL and MONTY_PYTHON
+RPC_URL and SOLIDITY_VERSION
+RPC_URL and ETH_CLIENT
+RPC_URL and METAMASK_ADDRESS
+
+> RPC_URL and MNEMONIC
