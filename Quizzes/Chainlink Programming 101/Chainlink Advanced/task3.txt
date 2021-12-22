@@ -1,0 +1,6 @@
+Why does it take only 1 transaction to get the data from a Chainlink Data Feed?
+
+Chainlink knows that you’re going to make a request and populates the smart contract ahead of time
+The data has already been requested, aggregated from multiple sources, and placed on-chain for us
+
+> The data has already been requested, aggregated from multiple sources, and placed on-chain for us
