@@ -1,0 +1,7 @@
+What are the 2 kinds of gas we need to make a request to a Chainlink node/oracle?
+
+Petroleum
+ETH
+Oracle Gas (LINK) and Transaction gas (ETH, MATIC, or whatever native smart contract currency)
+
+> Oracle Gas (LINK) and Transaction gas (ETH, MATIC, or whatever native smart contract currency)
