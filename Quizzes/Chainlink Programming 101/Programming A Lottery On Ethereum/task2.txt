@@ -1,0 +1,7 @@
+How can we test our oracle smart contracts?
+
+Using integration tests on a testnet like Kovan, and unit tests locally with mocks
+Testing is a waste of time
+Testing only on mainnet
+
+> Using integration tests on a testnet like Kovan, and unit tests locally with mocks
