@@ -1,0 +1,6 @@
+How does blockchain ensure the tamper-proofing of the data in defense scenarios?
+
+The transaction information written once in the system cannot be modified.
+The respective authority can access only privileged information.
+
+> The transaction information written once in the system cannot be modified.
