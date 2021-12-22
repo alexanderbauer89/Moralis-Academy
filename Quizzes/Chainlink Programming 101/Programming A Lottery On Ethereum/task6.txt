@@ -1,0 +1,7 @@
+Define external adapter
+
+A way to get wifi
+An API customized to respond in a way a chainlink node understands and added as an adapter/task via the bridge section of a node
+A foreign entity looking to attack our smart contracts by adapting them
+
+> An API customized to respond in a way a chainlink node understands and added as an adapter/task via the bridge section of a node
