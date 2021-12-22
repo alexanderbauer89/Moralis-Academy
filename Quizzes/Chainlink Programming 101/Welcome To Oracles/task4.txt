@@ -1,0 +1,6 @@
+Can blockchains create truly random numbers themselves?
+
+No, they are deterministic
+Yes
+
+> No, they are deterministic
