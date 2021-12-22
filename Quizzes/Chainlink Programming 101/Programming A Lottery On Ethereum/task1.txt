@@ -1,0 +1,8 @@
+If we want to test oracle contracts locally, what concept do we need to implement?
+
+Asynchronous threading
+Mocks
+Decentralized text editors
+Use Python over Javascript
+
+> Mocks
