@@ -1,0 +1,8 @@
+What always needs to be funded with ETH (or native smart contract/blockchain currency) in order for a chainlink node to deliver jobs?
+
+The oracle contract
+The node address
+The wallet of the president
+The Smart Contract consumer
+
+> The node address
