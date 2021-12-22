@@ -1,0 +1,7 @@
+What do things in IoT refer to?
+
+Objects that can exchange data
+Information
+General device
+
+> Objects that can exchange data
