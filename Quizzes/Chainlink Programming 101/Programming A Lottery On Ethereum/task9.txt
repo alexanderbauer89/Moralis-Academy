@@ -1,0 +1,7 @@
+What is a job on a chainlink node?
+
+The address of the node
+A way for new college graduates to get experience
+An initiator and a set of tasks/adapters
+
+> An initiator and a set of tasks/adapters
