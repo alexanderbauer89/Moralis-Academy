@@ -1,0 +1,8 @@
+How many transactions does it take to request a random number or a custom API that hasn’t been aggregated?
+
+One, same as data feeds
+Two, one for requesting the data, and one for receiving it
+Three, no more no less. Three shall be the number thou shalt count
+Five
+
+> Two, one for requesting the data, and one for receiving it
