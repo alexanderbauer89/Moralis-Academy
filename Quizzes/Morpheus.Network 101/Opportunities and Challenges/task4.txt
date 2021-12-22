@@ -1,0 +1,8 @@
+Which statement is true about the maintenance of a cloud computing environment?
+
+In a Software as a Service (SaaS) environment, patches are automatically installed on the clients.
+In an Infrastructure as a Service (IaaS) environment, customers do not need to worry about installing patches in virtual instances.
+In a SaaS environment, customers do not need to worry about installing patches in virtual instances.
+In an IaaS environment, patches are automatically installed on the clients.
+
+> In a SaaS environment, customers do not need to worry about installing patches in virtual instances.
