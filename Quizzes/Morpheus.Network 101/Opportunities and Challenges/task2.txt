@@ -1,0 +1,7 @@
+What is the flow of goods in a typical supply chain?
+
+Manufacturer>Forwarders>Carriers>Forwarders>Buyers
+Manufacturer>Carriers>Buyers
+Manufacturer>Buyers
+
+> Manufacturer>Forwarders>Carriers>Forwarders>Buyers
